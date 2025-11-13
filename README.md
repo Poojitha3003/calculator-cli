@@ -19,3 +19,11 @@ This project supports basic and advanced arithmetic operations with input valida
 - Python 3.x
 
 ## ▶️ Run the Program
+
+python3 calculator.py
+
+## 📸 Output Screenshot
+
+Below is the output of running the CLI Calculator:
+
+![Program Output](./output.png)
